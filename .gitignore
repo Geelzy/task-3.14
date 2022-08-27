@@ -1,0 +1,8 @@
+# Локальные директории и файлы 
+.idea 
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
